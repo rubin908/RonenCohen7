@@ -86,7 +86,8 @@ I specialize in **leading and delivering technological projects end-to-end**, co
 ## 📫 Connect with Me
 - 📧 [ronenc7@gmail.com](mailto:ronenc7@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronen-cohen7/)  
-- 🐙 [GitHub](https://github.com/RonenCohen7)  
+- 🐙 [GitHub](https://github.com/RonenCohen7)
+- 🤖 [GitHub](https://ronencohen7.github.io/pro_web)
 
 ---
 
