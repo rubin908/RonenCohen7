@@ -1,4 +1,4 @@
-# Hi there 👋 I’m **Ronen Cohen**            🤖 [Protfolio](https://ronencohen7.github.io/pro_web)
+# Hi there 👋 I’m **Ronen Cohen**            🤖 [portfolio](https://ronencohen7.github.io/pro_web)
 
 🚀 **Senior Technology Advisor | Full Stack Developer | Data & Project Integration Expert**
 
